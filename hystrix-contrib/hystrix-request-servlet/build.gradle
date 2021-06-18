@@ -1,0 +1,4 @@
+dependencies {
+    compile project(':hystrix-core')
+    compile 'javax.servlet:servlet-api:2.5'
+}
